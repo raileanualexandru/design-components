@@ -1,0 +1,101 @@
+
+.hline{
+    border-bottom: dotted 1px gray;
+    width: 800px;
+    float: left;
+    position: relative;
+    display: block;
+    height: 12px;
+    margin: 0 5px 15px 5px;
+}
+.vline{
+    border-right:solid 1px rgb(211, 211, 211);
+    height: 1650px;
+}
+#firstName{
+  width: 150px;
+  margin-right:3px;
+}
+.form-control{
+  border-color:rgb(114, 107, 107);
+  border-radius:0px;
+  border-style: solid;
+  border-width: 3px 1px 1px 1px;
+}
+.custom-select{
+  background-color: rgba(240, 240, 229, 0.541);
+  width:400px;
+}
+.gender{
+  margin-right: 30px;
+}
+#mm, #dd{
+  width: 20px;
+ margin: 0px 10px 0px 10px;
+}
+#yyyy{
+ width:40px;
+ margin: 0px 10px 0px 10px;
+}
+#slash{
+  font-size: 2em;
+  font-weight: 200;
+}
+.labeldata{
+  margin-left: 10px;
+}
+img{
+  width:35px;
+  height: 35px;
+  margin-bottom: 15px;
+}
+.birthdate{
+  margin-left: 20px;
+}
+.relationshipForm{
+  margin-left: 100px;
+}
+#relationship{
+  width: 350px;
+}
+.streetAddress{
+  width: 815px;
+}
+#town{
+  width: 380px;
+  margin-right: 85px;
+}
+#state{
+  width: 350px;
+}
+.phone{
+  width:30px;
+  margin: 0px 10px 0px 10px;
+}
+.phone4{
+  width: 40px;
+  margin: 0px 10px 0px 10px;
+}
+.phoneInfo{
+  p{
+    font-size: 2em;
+  }
+  .workphone{
+    margin-left: 255px;
+
+  }
+}
+.insurance{
+  margin-left: 5px;
+  p{
+    font-size: 2em;
+  }
+}
+#Textarea1{
+  width: 815px;
+}
+.sbtButton{
+  width: 150px;
+  color: black;
+  background-color: rgb(235, 235, 235);
+}
